@@ -1,0 +1,11 @@
+
+
+
+1. du -ch ~       # show the total space used by location in linux os in human readsble format
+
+2. tree ~          # display the ~ directory in nice tree structure. This is nor installed in ubuntu by default, 
+                      but though it is not recomended thats why its not instaled in ubuntu by default but it 
+                      will be a very good resource for learning porpose so use it.
+
+3. journalctl -g <pattern>   # grep for pattern in journalctl
+4. journalctl -f    # follow the logs
