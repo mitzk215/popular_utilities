@@ -9,3 +9,5 @@
 
 3. journalctl -g <pattern>   # grep for pattern in journalctl
 4. journalctl -f    # follow the logs
+
+5. grep -v <pattern>    # inverts the selection on the pattern i.e matches anything tha is not in the <pattern>
